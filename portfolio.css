@@ -11,6 +11,13 @@ body{
   background-attachment: fixed;
   color: white;
 }
+.summary{
+  padding: 20px;
+  margin: 20px;
+  background-color: #2b2b2b;
+  border-radius: 10px;
+}
+
 .Grid{
   display: grid;
   grid-template-areas: initial;
@@ -159,4 +166,5 @@ section{
   bottom: -200px;
   left: 20px;
 }
+
 
